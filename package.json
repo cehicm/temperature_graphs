@@ -1,0 +1,30 @@
+{
+  "name": "draw_graphs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cehicm/temperature_graphs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cehicm/temperature_graphs/issues"
+  },
+  "homepage": "https://github.com/cehicm/temperature_graphs#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-terser": "^2.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.14",
+    "@babel/preset-env": "^7.13.12",
+    "gulp-babel": "^8.0.0"
+  }
+}
